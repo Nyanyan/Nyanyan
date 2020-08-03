@@ -30,9 +30,8 @@ In this article, I will introduce myself by telling you things below:
 * Live in Ibaraki, Japan
 * A first-year student of College of Engineering Systems in University of Tsukuba
 
-
-
 * 18歳
+
 * 茨城県在住
 * 筑波大学理工学群工学システム学類1年
 
