@@ -123,6 +123,7 @@ I made:
 
 * Twitter: https://twitter.com/Nyanyan_Cube
 * Instagram: https://www.instagram.com/takutoyamana/
+* Facebook: https://www.facebook.com/profile.php?id=100011203000448
 * YouTube: https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ
 * Website: https://nyanyan.github.io/
 
