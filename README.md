@@ -108,6 +108,7 @@ I made:
 | 2019 | Super Creator Award in Mitou, Information-technology Promotion Agency, Japan |
 | 2019 | Silver Award in Japan Physics Olympiad 2019                  |
 | 2019 | Most Excellent Experiment Award in Japan Physics Olympiad 2019 |
+| 2020 | Most Excellent Award in Useless Development Category, Geekten |
 
 | 年   | 受賞                                     |
 | ---- | ---------------------------------------- |
@@ -118,12 +119,13 @@ I made:
 | 2019 | IPA未踏スーパークリエータ認定            |
 | 2019 | 物理チャレンジ2019銀賞                   |
 | 2019 | 物理チャレンジ2019実験優秀賞             |
+| 2020 | 技育展無駄開発部門最優秀賞               |
 
 ## Contact me! / コンタクト
 
 * Twitter: https://twitter.com/Nyanyan_Cube
 * Instagram: https://www.instagram.com/takutoyamana/
-* Facebook: https://www.facebook.com/profile.php?id=100011203000448
+* Facebook: https://www.facebook.com/takutoyamana
 * YouTube: https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ
 * Website: https://nyanyan.github.io/
 
