@@ -12,7 +12,7 @@ In this article, I will introduce myself by telling you things below:
 * What award did I get?
 * Contact me!
 
-こんにちは。にゃにゃんと申します。“コデザインメーカー”を自称しています。
+こんにちは。にゃにゃんと申します。“**コデザインメーカー**”を自称しています。
 
 この文書では以下のことを話して自己紹介をします。
 
@@ -26,11 +26,11 @@ In this article, I will introduce myself by telling you things below:
 
 ## How old am I? Where do I live? / 年齢、住んでいる場所など
 
-* 18 years old
+* 19 years old
 * Live in Ibaraki, Japan
 * A first-year student of College of Engineering Systems in University of Tsukuba
 
-* 18歳
+* 19歳
 
 * 茨城県在住
 * 筑波大学理工学群工学システム学類1年
@@ -55,12 +55,12 @@ I love:
 
 I am now doing:
 
-* Making a robot, which solves a 4x4x4 rubik’s cube in world’s fastest time (https://github.com/Nyanyan/Solvour)
+* Making a robot, which solves a 3x3x3 rubik’s cube (https://github.com/Nyanyan/Studth)
 * Making a stack mat timer, which has special two additional functions (https://github.com/Nyanyan/NyanTimer)
 
 私は今以下のことをしています
 
-* 4x4x4ルービックキューブを世界最速で解くロボット作り(https://github.com/Nyanyan/Solvour)
+* 3x3x3ルービックキューブを解くロボット作り(https://github.com/Nyanyan/Studth)
 * 2つの画期的な機能がついたスタックタイマーの開発(https://github.com/Nyanyan/NyanTimer)
 
 ## What did I made? / 作ったもの
@@ -72,6 +72,7 @@ I made:
 * NyanTimer - a timer for all cubers (https://nyanyan.github.io/en/#nyantimer)
 * NyanClock - a completely new rubik’s clock (https://nyanyan.github.io/en/#nyanclock)
 * Soltvvo - a 2x2x2 rubik’s cube solving robot (https://youtu.be/Fok7bAn-NSs)
+* QiaoKe - a DIY 3D printed 2x2x2 rubik’s cube (https://youtu.be/oAFRU4QSiIM)
 
 作ったもの:
 
@@ -80,6 +81,7 @@ I made:
 * NyanTimer - すべてのキューバーのためのタイマー (https://nyanyan.github.io/ja/#nyantimer)
 * NyanClock - 全く新しいルービッククロック(https://nyanyan.github.io/ja/#nyanclock)
 * Soltvvo - 2x2x2ルービックキューブを解くロボット(https://youtu.be/Fok7bAn-NSs)
+* QiaoKe - 3Dプリンタで作るDIY2x2x2ルービックキューブ(https://youtu.be/oAFRU4QSiIM)
 
 ## What is my personal history? / 略歴
 
