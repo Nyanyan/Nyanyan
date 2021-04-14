@@ -32,12 +32,12 @@ In this article, I will introduce myself by telling you things below:
 
 * 19 years old
 * Live in Ibaraki, Japan
-* A first-year student of College of Engineering Systems in University of Tsukuba
+* A second-year student of College of Engineering Systems in University of Tsukuba
 
 * 19歳
 
 * 茨城県在住
-* 筑波大学理工学群工学システム学類1年
+* 筑波大学理工学群工学システム学類2年
 
 ## What do I love? / 好きなこと
 
