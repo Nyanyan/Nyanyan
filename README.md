@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/Nyanyan/count.svg)
+
 ## Introduction / はじめに
 
 Hi, I am Nyanyan, a “**Co-Design Maker**.”
