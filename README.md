@@ -115,6 +115,7 @@ I made:
 | 2019 | Silver Award in Japan Physics Olympiad 2019                  |
 | 2019 | Most Excellent Experiment Award in Japan Physics Olympiad 2019 |
 | 2020 | Most Excellent Award in Useless Development Category, Geekten |
+| 2021 | Chosen as a creator of Kuma Foundation                       |
 
 | 年   | 受賞                                     |
 | ---- | ---------------------------------------- |
@@ -126,10 +127,11 @@ I made:
 | 2019 | 物理チャレンジ2019銀賞                   |
 | 2019 | 物理チャレンジ2019実験優秀賞             |
 | 2020 | 技育展無駄開発部門最優秀賞               |
+| 2021 | クマ財団クリエイター奨学金採択           |
 
 ## Contact me! / コンタクト
 
-* Twitter: https://twitter.com/Nyanyan_Cube
+* Twitter: https://twitter.com/takuto_yamana
 * Instagram: https://www.instagram.com/takutoyamana/
 * Facebook: https://www.facebook.com/takutoyamana
 * YouTube: https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ
