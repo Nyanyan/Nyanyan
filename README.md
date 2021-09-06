@@ -59,13 +59,13 @@ I love:
 
 I am now doing:
 
+* Make my reversi AI stronger (https://www.egaroucid.nyanyan.dev/)
 * Making a robot, which solves a 3x3x3 rubik’s cube (https://github.com/Nyanyan/Studth)
-* Making a stack mat timer, which has special two additional functions (https://github.com/Nyanyan/NyanTimer)
 
 私は今以下のことをしています
 
+* 自作オセロAIの強化 (https://www.egaroucid.nyanyan.dev/)
 * 3x3x3ルービックキューブを解くロボット作り(https://github.com/Nyanyan/Studth)
-* 2つの画期的な機能がついたスタックタイマーの開発(https://github.com/Nyanyan/NyanTimer)
 
 ## What did I made? / 作ったもの
 
@@ -77,6 +77,8 @@ I made:
 * NyanClock - a completely new rubik’s clock (https://nyanyan.github.io/en/#nyanclock)
 * Soltvvo - a 2x2x2 rubik’s cube solving robot (https://youtu.be/Fok7bAn-NSs)
 * QiaoKe - a DIY 3D printed 2x2x2 rubik’s cube (https://youtu.be/oAFRU4QSiIM)
+* Retro Reversi AI - Reversi AI with 8 bit microcontroller (https://youtu.be/I_ctZKlP2XA)
+* Egaroucid - reversi AI with got 10th in the world (https://www.egaroucid.nyanyan.dev/)
 
 作ったもの:
 
@@ -86,6 +88,8 @@ I made:
 * NyanClock - 全く新しいルービッククロック(https://nyanyan.github.io/ja/#nyanclock)
 * Soltvvo - 2x2x2ルービックキューブを解くロボット(https://youtu.be/Fok7bAn-NSs)
 * QiaoKe - 3Dプリンタで作るDIY2x2x2ルービックキューブ(https://youtu.be/oAFRU4QSiIM)
+* レトロオセロAI - 8bitマイコンで動かすオセロAI(https://youtu.be/I_ctZKlP2XA)
+* Egaroucid - 世界10位になったオセロAI (https://www.egaroucid.nyanyan.dev/)
 
 ## What is my personal history? / 略歴
 
