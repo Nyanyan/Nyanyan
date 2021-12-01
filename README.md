@@ -2,6 +2,8 @@ Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/Nyanyan/count.svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanyan&show_icons=true&theme=radical)
+
 ## Introduction / はじめに
 
 Hi, I am Nyanyan, a “**Co-Design Maker**.”
