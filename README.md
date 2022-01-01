@@ -80,7 +80,7 @@ I made:
 * Soltvvo - a 2x2x2 rubik’s cube solving robot (https://youtu.be/Fok7bAn-NSs)
 * QiaoKe - a DIY 3D printed 2x2x2 rubik’s cube (https://youtu.be/oAFRU4QSiIM)
 * Retro Reversi AI - Reversi AI with 8 bit microcontroller (https://youtu.be/I_ctZKlP2XA)
-* Egaroucid - reversi AI with got 10th in the world (https://www.egaroucid.nyanyan.dev/)
+* Egaroucid - reversi AI with got 10h in the world (https://www.egaroucid.nyanyan.dev/)
 
 作ったもの:
 
@@ -91,7 +91,7 @@ I made:
 * Soltvvo - 2x2x2ルービックキューブを解くロボット(https://youtu.be/Fok7bAn-NSs)
 * QiaoKe - 3Dプリンタで作るDIY2x2x2ルービックキューブ(https://youtu.be/oAFRU4QSiIM)
 * レトロオセロAI - 8bitマイコンで動かすオセロAI(https://youtu.be/I_ctZKlP2XA)
-* Egaroucid - 世界10位になったオセロAI (https://www.egaroucid.nyanyan.dev/)
+* Egaroucid - 世界1位になったオセロAI (https://www.egaroucid.nyanyan.dev/)
 
 ## What is my personal history? / 略歴
 
@@ -123,6 +123,7 @@ I made:
 | 2020 | Most Excellent Award in Useless Development Category, Geekten |
 | 2021 | Chosen as a creator of Kuma Foundation                       |
 | 2021 | Most Excellent Award in Useless Development Category, Geekten 2021 |
+| 2021 | 1st Place in the world (Othello, CodinGame)                  |
 
 | 年   | 受賞                                     |
 | ---- | ---------------------------------------- |
@@ -136,6 +137,7 @@ I made:
 | 2020 | 技育展無駄開発部門最優秀賞               |
 | 2021 | クマ財団クリエイター奨学金採択           |
 | 2021 | 技育展2021無駄開発部門最優秀賞           |
+| 2021 | CodinGame オセロAI世界1位                |
 
 ## Contact me! / コンタクト
 
