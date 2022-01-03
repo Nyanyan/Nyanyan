@@ -32,11 +32,11 @@ In this article, I will introduce myself by telling you things below:
 
 ## How old am I? Where do I live? / 年齢、住んでいる場所など
 
-* 19 years old
+* 20 years old
 * Live in Ibaraki, Japan
 * A second-year student of College of Engineering Systems in University of Tsukuba
 
-* 19歳
+* 20歳
 
 * 茨城県在住
 * 筑波大学理工学群工学システム学類2年
