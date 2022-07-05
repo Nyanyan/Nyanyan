@@ -121,8 +121,9 @@ I made:
 | 2019 | Silver Award in Japan Physics Olympiad 2019                  |
 | 2019 | Most Excellent Experiment Award in Japan Physics Olympiad 2019 |
 | 2020 | Most Excellent Award in Useless Development Category, Geekten |
-| 2021 | Chosen as a creator of Kuma Foundation                       |
+| 2021 | Chosen as a creator of Kuma Foundation 5th term              |
 | 2021 | Most Excellent Award in Useless Development Category, Geekten 2021 |
+| 2022 | Chosen as a creator of Kuma Foundation 6th term              |
 
 | 年   | 受賞                                     |
 | ---- | ---------------------------------------- |
@@ -134,8 +135,9 @@ I made:
 | 2019 | 物理チャレンジ2019銀賞                   |
 | 2019 | 物理チャレンジ2019実験優秀賞             |
 | 2020 | 技育展無駄開発部門最優秀賞               |
-| 2021 | クマ財団クリエイター奨学金採択           |
+| 2021 | クマ財団クリエイター奨学金5期生採択      |
 | 2021 | 技育展2021無駄開発部門最優秀賞           |
+| 2022 | クマ財団クリエイター奨学金6期生採択      |
 
 ## Contact me! / コンタクト
 
