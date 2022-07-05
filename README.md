@@ -32,11 +32,11 @@ In this article, I will introduce myself by telling you things below:
 
 ## How old am I? Where do I live? / 年齢、住んでいる場所など
 
-* 19 years old
+* 20 years old
 * Live in Ibaraki, Japan
 * A second-year student of College of Engineering Systems in University of Tsukuba
 
-* 19歳
+* 20歳
 
 * 茨城県在住
 * 筑波大学理工学群工学システム学類2年
@@ -80,7 +80,7 @@ I made:
 * Soltvvo - a 2x2x2 rubik’s cube solving robot (https://youtu.be/Fok7bAn-NSs)
 * QiaoKe - a DIY 3D printed 2x2x2 rubik’s cube (https://youtu.be/oAFRU4QSiIM)
 * Retro Reversi AI - Reversi AI with 8 bit microcontroller (https://youtu.be/I_ctZKlP2XA)
-* Egaroucid - reversi AI with got 10th in the world (https://www.egaroucid.nyanyan.dev/)
+* Egaroucid - reversi AI with got 10h in the world (https://www.egaroucid.nyanyan.dev/)
 
 作ったもの:
 
@@ -91,7 +91,7 @@ I made:
 * Soltvvo - 2x2x2ルービックキューブを解くロボット(https://youtu.be/Fok7bAn-NSs)
 * QiaoKe - 3Dプリンタで作るDIY2x2x2ルービックキューブ(https://youtu.be/oAFRU4QSiIM)
 * レトロオセロAI - 8bitマイコンで動かすオセロAI(https://youtu.be/I_ctZKlP2XA)
-* Egaroucid - 世界10位になったオセロAI (https://www.egaroucid.nyanyan.dev/)
+* Egaroucid - 世界1位になったオセロAI (https://www.egaroucid.nyanyan.dev/)
 
 ## What is my personal history? / 略歴
 
@@ -123,8 +123,8 @@ I made:
 | 2020 | Most Excellent Award in Useless Development Category, Geekten |
 | 2021 | Chosen as a creator of Kuma Foundation 5th term              |
 | 2021 | Most Excellent Award in Useless Development Category, Geekten 2021 |
+|2021|1st Place in the world (Othello, CodinGame)|
 | 2022 | Chosen as a creator of Kuma Foundation 6th term              |
-
 | 年   | 受賞                                     |
 | ---- | ---------------------------------------- |
 | 2018 | 京都大学ELCASプレゼンテーション賞        |
@@ -137,8 +137,8 @@ I made:
 | 2020 | 技育展無駄開発部門最優秀賞               |
 | 2021 | クマ財団クリエイター奨学金5期生採択      |
 | 2021 | 技育展2021無駄開発部門最優秀賞           |
+| 2021 | CodinGame オセロAI世界1位                |
 | 2022 | クマ財団クリエイター奨学金6期生採択      |
-
 ## Contact me! / コンタクト
 
 * Twitter: https://twitter.com/takuto_yamana
