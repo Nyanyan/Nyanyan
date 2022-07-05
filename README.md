@@ -125,6 +125,8 @@ I made:
 | 2021 | Most Excellent Award in Useless Development Category, Geekten 2021 |
 |2021|1st Place in the world (Othello, CodinGame)|
 | 2022 | Chosen as a creator of Kuma Foundation 6th term              |
+
+
 | 年   | 受賞                                     |
 | ---- | ---------------------------------------- |
 | 2018 | 京都大学ELCASプレゼンテーション賞        |
@@ -139,6 +141,9 @@ I made:
 | 2021 | 技育展2021無駄開発部門最優秀賞           |
 | 2021 | CodinGame オセロAI世界1位                |
 | 2022 | クマ財団クリエイター奨学金6期生採択      |
+
+
+
 ## Contact me! / コンタクト
 
 * Twitter: https://twitter.com/takuto_yamana
