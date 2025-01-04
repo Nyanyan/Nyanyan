@@ -4,7 +4,7 @@ I like making something and people who make something.
 
 Please visit my website here: https://nyanyan.dev/
 
-<img src="image/face.png" alt="face" style="width: 50%" /><img src="image/icon.jpg" alt="icon" style="width: 50%" />
+<img src="image/face.jpg" alt="face" style="width: 50%" /><img src="image/icon.jpg" alt="icon" style="width: 50%" />
 
 
 
