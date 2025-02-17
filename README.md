@@ -14,7 +14,7 @@ Please visit my website here: https://nyanyan.dev/
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/takutoyamana" target="_blank" rel="noopener noreferrer"><img alt="takutoyamanaのLAPRASでのスコアは次の通りです: エンジニアリング: 4.02 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 3.74 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.02&b=3.57&i=3.74&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 2/16/2025, 1:06:37 AM</p>
+Last Updated on 2/17/2025, 1:04:18 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nyanyan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
