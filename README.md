@@ -1,4 +1,4 @@
-## Takuto Yamana, Who loves Making and who love Making
+## Takuto Yamana, A Maker Who Loves Making and Makers Who Love Making
 
 I like making something and people who make something.
 
